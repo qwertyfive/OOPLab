@@ -1,0 +1,10 @@
+C:\Users\qwert\Desktop\LAB2\LAB2\obj\Debug\LAB2.csprojAssemblyReference.cache
+C:\Users\qwert\Desktop\LAB2\LAB2\obj\Debug\LAB2.Properties.Resources.resources
+C:\Users\qwert\Desktop\LAB2\LAB2\obj\Debug\LAB2.csproj.GenerateResource.cache
+C:\Users\qwert\Desktop\LAB2\LAB2\obj\Debug\LAB2.csproj.CoreCompileInputs.cache
+C:\Users\qwert\Desktop\LAB2\LAB2\bin\Debug\LAB2.exe.config
+C:\Users\qwert\Desktop\LAB2\LAB2\bin\Debug\LAB2.exe
+C:\Users\qwert\Desktop\LAB2\LAB2\bin\Debug\LAB2.pdb
+C:\Users\qwert\Desktop\LAB2\LAB2\obj\Debug\LAB2.exe
+C:\Users\qwert\Desktop\LAB2\LAB2\obj\Debug\LAB2.pdb
+C:\Users\qwert\Desktop\LAB2\LAB2\obj\Debug\LAB2.Form1.resources

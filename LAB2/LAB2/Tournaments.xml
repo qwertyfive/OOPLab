@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Tournaments>
+	<Tournament
+		Title = "International"
+		Date = "09.08.2021"
+		PriceRange = "5000 - 10000"
+		Location = "Stockholm, Sweden"
+		Commentators = "V1lat, XBOCT, GotHunt, Casper, Bafik"
+		Participants = "NaVi, OG, Nigma, VP, PSG.LGD, TeamSecret, Alliance, EvilGenisues"
+		Type = "DPS">
+	</Tournament>
+	<Tournament
+		Title = "EPICENTER"
+		Date = "30.05.2019"
+		PriceRange = "5000 - 10000"
+		Location = "Moscow, Russia"
+		Commentators = "NS, V1lat, Maelstorm, Dread"
+		Participants = "NaVi, OG, Liquid, VP, TeamSecret, ViciGaming"
+		Type = "DPS">
+	</Tournament>
+	<Tournament
+		Title = "Kiev Major"
+		Date = "20.04.2017"
+		PriceRange = "2500 - 5000"
+		Location = "Kyiv, Ukraine"
+		Commentators = "Tonya, Bafik, GotHunt, Olsior"
+		Participants = "NaVi, VP, EvilGeniuses"
+		Type = "DPS">
+	</Tournament>
+	<Tournament
+		Title = "Dream League"
+		Date = "17.06.2020"
+		PriceRange = "2500 - 5000"
+		Location = "Shanghai, China"
+		Commentators = "GotHunt, Goblak, Casper"
+		Participants = "Infamous, Liquid, OG, ViciGaming, VP"
+		Type = "Кваліфікація">
+	</Tournament>
+</Tournaments>
+
+
+
+
+
